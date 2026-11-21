@@ -1,0 +1,10 @@
+{
+  "name": "cao-lab-target",
+  "version": "1.0.0",
+  "description": "Tiny example project that converts Celsius to Fahrenheit.",
+  "main": "src/convert.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
